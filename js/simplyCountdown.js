@@ -117,7 +117,7 @@
         var parameters = extend({
             year: 2018,
             month: 5,
-            day: 10,
+            day: 27,
             hours: 0,
             minutes: 0,
             seconds: 0,
@@ -197,7 +197,7 @@
 
                 if (secondsLeft > 0) {
 
-                    var countDownDate = new Date("Aug 10, 2018 18:00:00").getTime();
+                    var countDownDate = new Date("May 27, 2018 10:00:00").getTime();
                     var x = setInterval(function() {
 
                         // Get todays date and time
