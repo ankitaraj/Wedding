@@ -197,7 +197,7 @@
 
                 if (secondsLeft > 0) {
 
-                    var countDownDate = new Date("May 27, 2018 10:00:00").getTime();
+                    var countDownDate = new Date("May 27, 2018 12:30:00").getTime();
                     var x = setInterval(function() {
 
                         // Get todays date and time
